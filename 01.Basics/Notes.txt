@@ -1,0 +1,19 @@
+                               PYTHON
+
+
+-> Created in 1991
+-> Open Source
+-> Intrepreted Language
+-> High Level, Easy to learn, Portable
+
+
+WHY PYTHON
+
+* Works in different platform 
+* Easy Syntax
+* Code in fewer lines
+* Execution Speed
+
+
+IDE : PyCharm
+
