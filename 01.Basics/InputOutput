@@ -1,2 +1,7 @@
 name = input("Enter your name")
 print ("Welcome", name , "!")
+
+Age = 22
+City = "Chennai"
+
+print (name, Age, City)
