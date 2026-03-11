@@ -1,8 +1,25 @@
+#int , float, complex
 
+a = 1
+b =  2
+c = 3j
 
-#This file consits of all the number and 
+print ()
 
-"This is multiple c"
-"line comment"
+a = 1
+b =  2
+c = 3j
+
+print ()
+
+a = 1
+b =  2
+c = 3j
+
+print ()
+
+a = 1
+b =  2
+c = 3j
 
 print ()
