@@ -1,0 +1,37 @@
+| Keyword  | Usage                             | Example                 |
+| -------- | --------------------------------- | ----------------------- |
+| False    | Boolean false value               | `x = False`             |
+| True     | Boolean true value                | `x = True`              |
+| None     | Represents null / no value        | `x = None`              |
+| and      | Logical AND operator              | `5 > 2 and 3 > 1`       |
+| or       | Logical OR operator               | `5 > 2 or 1 > 3`        |
+| not      | Negates boolean value             | `not True`              |
+| if       | Conditional statement             | `if x > 5:`             |
+| elif     | Multiple condition checking       | `elif x == 5:`          |
+| else     | Executes when condition fails     | `else:`                 |
+| for      | Loop through sequence             | `for i in range(5):`    |
+| while    | Loop while condition true         | `while x < 5:`          |
+| break    | Stops loop immediately            | `break`                 |
+| continue | Skips current iteration           | `continue`              |
+| pass     | Placeholder / empty statement     | `pass`                  |
+| in       | Membership operator               | `3 in [1,2,3]`          |
+| is       | Checks object identity            | `a is b`                |
+| def      | Defines a function                | `def add():`            |
+| return   | Returns value from function       | `return x`              |
+| lambda   | Anonymous function                | `lambda x: x+1`         |
+| class    | Defines a class                   | `class Person:`         |
+| try      | Starts exception handling         | `try:`                  |
+| except   | Handles exceptions                | `except Exception:`     |
+| finally  | Executes always after try         | `finally:`              |
+| raise    | Raises exception manually         | `raise ValueError()`    |
+| assert   | Debugging check                   | `assert x > 0`          |
+| import   | Imports module                    | `import math`           |
+| from     | Imports specific part             | `from math import sqrt` |
+| as       | Creates alias                     | `import numpy as np`    |
+| global   | Declares global variable          | `global x`              |
+| nonlocal | Refers to outer function variable | `nonlocal x`            |
+| with     | Used with context manager         | `with open('file'):`    |
+| async    | Defines async function            | `async def main():`     |
+| await    | Waits for async result            | `await task`            |
+| del      | Deletes object                    | `del x`                 |
+| yield    | Returns generator value           | `yield 1`               |
