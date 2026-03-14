@@ -1,0 +1,141 @@
+1️⃣ Arrays / Lists (10 Problems)
+
+These are the most common coding interview problems.
+
+Practice:
+
+Two Sum
+
+Best Time to Buy and Sell Stock
+
+Contains Duplicate
+
+Maximum Subarray
+
+Move Zeroes
+
+Product of Array Except Self
+
+Merge Sorted Array
+
+Rotate Array
+
+Missing Number
+
+Find All Numbers Disappeared in Array
+
+2️⃣ Strings (8 Problems)
+
+Very common in DevOps interviews (log processing, parsing).
+
+Practice:
+
+Valid Palindrome
+
+Reverse String
+
+Longest Common Prefix
+
+First Unique Character in String
+
+Valid Anagram
+
+Longest Substring Without Repeating Characters
+
+Group Anagrams
+
+String Compression
+
+3️⃣ HashMaps / Dictionaries (8 Problems)
+
+Python dictionaries are heavily used in automation scripts.
+
+Practice:
+
+Two Sum (hashmap approach)
+
+Top K Frequent Elements
+
+Majority Element
+
+Intersection of Two Arrays
+
+Subarray Sum Equals K
+
+Find Duplicate Number
+
+Happy Number
+
+Isomorphic Strings
+
+4️⃣ Stack / Queue (6 Problems)
+
+Often asked to check logical thinking.
+
+Practice:
+
+Valid Parentheses
+
+Min Stack
+
+Implement Queue using Stacks
+
+Daily Temperatures
+
+Evaluate Reverse Polish Notation
+
+Simplify Path
+
+5️⃣ Sliding Window (4 Problems)
+
+Very popular interview pattern.
+
+Practice:
+
+Longest Substring Without Repeating Characters
+
+Maximum Average Subarray
+
+Longest Repeating Character Replacement
+
+Minimum Size Subarray Sum
+
+6️⃣ Trees (Basic Only – 4 Problems)
+
+DevOps roles rarely go deep here, but basics help.
+
+Practice:
+
+Maximum Depth of Binary Tree
+
+Invert Binary Tree
+
+Binary Tree Level Order Traversal
+
+Same Tree
+
+7️⃣ Log / Data Processing Problems (Very Relevant for DevOps)
+
+These resemble real DevOps automation tasks.
+
+Practice implementing:
+
+Find duplicate IP addresses in logs
+
+Count most frequent error code
+
+Parse log entries and group by service
+
+Detect failed login attempts
+
+
+Arrays           10
+Strings           8
+HashMaps          8
+Stack/Queue       6
+Sliding Window    4
+Trees             4
+-------------------
+Total            ~40
+
+
