@@ -12,7 +12,7 @@ number = 97314598734
 Total_score = 89
 _color = "Yellow"
 
-print(type(_color))  
+print(type(age))  
 
 # Invalid variable names
 # 1name = nira 
